@@ -1,6 +1,6 @@
 # Advora-Baljeet
 This is my first project.
 <br>
-Author-Baljit(Rajput)
+Author-Baljit singh Karnavat (Rajput)
 <br>
 AI ML developer
